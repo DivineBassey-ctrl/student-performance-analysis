@@ -33,15 +33,20 @@ This project investigates key factors influencing student academic performance u
 - Balanced extracurricular activities correlate with higher GPA
 - Statistically significant predictors identified
 
-## 🚀 Applications in AI
-- Feature selection for predictive models
-- Training datasets for education-focused AI systems
-- Pattern recognition in behavioral data
+## 🧠 AI & Data Applications
+- Feature understanding for machine learning models  
+- Data cleaning and preprocessing for AI pipelines  
+- Pattern recognition in structured datasets  
+- Regression modeling for predictive systems  
+- Insight generation for decision-making systems  
 
 ## 📁 Project Structure
 - `/data` → dataset
 - `/scripts` → R code
 - `/output` → charts & results
+
+## 📌 Reproducibility
+All analysis was performed using R with reproducible steps for transparency and validation.
 
 ## 📌 Author
 **Bassey Otu Divine**  
